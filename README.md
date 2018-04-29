@@ -5,7 +5,7 @@ A basic water material for the Godot Engine 3.x.
 #### Video/How To:
 https://youtu.be/jbYrpKWTlpw
 
-![Image](assets/maujoe.basic_water_material/screenshots/basic_water_material_1.png)
+![Image](assets/maujoe.basic_water_material/screenshots/basic_water_material_1.jpg)
 
 ## License
 
